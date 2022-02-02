@@ -1,0 +1,12 @@
+@media screen and (max-width: 0){
+    .logo {
+        display: none;
+    }
+    
+}
+
+@media screen and (max-width: 768px){
+    .logo {
+        display: block;
+    }
+}
